@@ -1,8 +1,6 @@
-# Loren-Rodrigues
+# Loren Rodrigues Menezes
 
-#Loren Rodrigues Menezes
-
-##Estudante de Engenharia Mecatrônica CEFET-MG campus Divinópolis
+## Estudante de Engenharia Mecatrônica CEFET-MG campus Divinópolis
 
 Email: [lorenrodrigues@outlook.com](mailto:lorenrodrigues@outlook.com)
 
